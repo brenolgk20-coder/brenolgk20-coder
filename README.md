@@ -1,30 +1,26 @@
-# Olá, eu sou o Breno Jose! 👋
+# Olá, eu sou o Breno José! 👋
 
 Graduando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário CESMAC. Tenho uma sólida bagagem prática em suporte técnico de TI e infraestrutura, e atualmente estou focado no desenvolvimento de software e banco de dados.
 
+---
+
 ### 🛠️ Habilidades Técnicas
 
-#### 💻 Desenvolvimento & Versão
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![HTML5](https://shields.io)
-![TypeScript](https://shields.io)
-
-#### 🗄️ Banco de Dados
-![MySQL](https://shields.io)
-![PostgreSQL](https://shields.io)
-
-#### 🔧 Infraestrutura & Suporte
-![Windows](https://shields.io)
-![Linux](https://shields.io)
-
-
-### 🚀 Objetivos Atuais
-- Atuar como Desenvolvedor Júnior, unindo minha experiência em infraestrutura com a criação de soluções tecnológicas.
-- Aprofundar conhecimentos em desenvolvimento de software e arquitetura de sistemas.
+* **Desenvolvimento & Versão:** `HTML5` | `TypeScript` | `Git` | `GitHub`
+* **Banco de Dados:** `SQL` | `MySQL` | `PostgreSQL` | `Modelagem de Dados`
+* **Infraestrutura & Suporte:** `Windows` | `Linux` | `Redes de Computadores` | `Montagem e Manutenção`
+* **Metodologias:** `Scrum` | `Kanban` | `Metodologias Ágeis`
 
 ---
 
-📬 **Vamos nos conectar?**
-- [LinkedIn](https://linkedin.com)
-- Email: brenocuttley@gmail.com
+### 🚀 Objetivos Atuais
+
+* Atuar como Desenvolvedor Júnior, unindo minha experiência em infraestrutura com a criação de soluções tecnológicas.
+* Aprofundar conhecimentos em desenvolvimento de software e arquitetura de sistemas.
+
+---
+
+### 📫 Vamos nos conectar?
+
+* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+* **E-mail:** brenocuttley@gmail.com
