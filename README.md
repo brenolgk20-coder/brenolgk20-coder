@@ -22,5 +22,5 @@ Graduando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário C
 
 ### 📫 Vamos nos conectar?
 
-* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+* **LinkedIn:** [linkedin.com/in/brenocuttley-dev](https://www.linkedin.com/in/brenocuttley-dev)
 * **E-mail:** brenocuttley@gmail.com
