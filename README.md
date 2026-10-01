@@ -1,4 +1,4 @@
-# Olá, eu sou o Breno José! 👋
+# Olá, eu sou o Breno! 👋
 
 Graduando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário CESMAC. Tenho uma sólida bagagem prática em suporte técnico de TI e infraestrutura, e atualmente estou focado no desenvolvimento de software e banco de dados.
 
